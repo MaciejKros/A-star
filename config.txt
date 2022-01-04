@@ -1,0 +1,11 @@
+20
+50
+1.0
+2.0
+1
+////////////////// Powyzsze wartosci kolejno odpowiadaja:
+Rozmiar tablicy do wygenerowania
+Prawdopodobienstwo wylosowania komorki przeszkody
+koszt akcji na wolna komorke
+koszt akcji na przeszkode
+ilosc wygenerowan losowej tablicy komorek
